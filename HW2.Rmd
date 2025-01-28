@@ -1,11 +1,11 @@
 ---
 title: "SDS 315 - HW 2"
 author: "Nima Kheradbin - UT EID: nk24629"
-GitHub repo link: 
 output:
   html_document: default
   pdf_document: default
 ---
+[GitHub repo link](https://github.com/nimakheradbin/SDS-315---HW-2)
 ```{r include=FALSE}
 library(tidyverse)
 ```
